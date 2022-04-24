@@ -15,13 +15,13 @@
     {
       "name": "copier-github-actions-semantic-release",
       "data": {
-        "author_email": "derobertis.nick@gmail.com",
-        "full_name": "Github Actions Semantic Release Example",
-        "package_author": "Nick DeRobertis",
         "repo_name": "github-actions-semantic-release-example",
+        "full_name": "Github Actions Semantic Release Example",
+        "action_type": "typescript",
         "repo_username": "nickderobertis",
         "short_description": "An example repo for copier-github-actions-semantic-release",
-        "action_type": "typescript"
+        "package_author": "Nick DeRobertis",
+        "author_email": "derobertis.nick@gmail.com"
       },
       "version": "709b7a04dfbca158d7729fea6c61a643",
       "add_mode": "local",
