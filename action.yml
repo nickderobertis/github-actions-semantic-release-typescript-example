@@ -1,6 +1,6 @@
 name: 'Github Actions Semantic Release Example'
 description: 'An example repo for copier-github-actions-semantic-release'
 runs:
-  using: 
+  using: node16
   main: "dist/index.js"
   
