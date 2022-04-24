@@ -4,7 +4,7 @@
       "name": "copier-github-actions-semantic-release",
       "path": "../copier-github-actions-semantic-release",
       "type": "copier",
-      "version": "0e7f7190e426d476152bf4f127e5e945",
+      "version": "5b505876a6665ee1746839f1a3679cba",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -23,7 +23,7 @@
         "package_author": "Nick DeRobertis",
         "author_email": "derobertis.nick@gmail.com"
       },
-      "version": "0e7f7190e426d476152bf4f127e5e945",
+      "version": "5b505876a6665ee1746839f1a3679cba",
       "add_mode": "local",
       "root": "."
     }
